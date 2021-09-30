@@ -1,0 +1,8 @@
+py/com/ci/constructioncompany/boundary/StockControlManager.class
+py/com/ci/constructioncompany/presentation/web/LoginBean.class
+py/com/ci/constructioncompany/presentation/web/StockControlBean.class
+py/com/ci/constructioncompany/utils/ConnectionManager.class
+py/com/ci/constructioncompany/entities/StockControl.class
+py/com/ci/constructioncompany/presentation/web/servlets/TestServlet.class
+py/com/ci/constructioncompany/user/SystemUser.class
+py/com/ci/constructioncompany/presentation/console/StockControlUI.class
